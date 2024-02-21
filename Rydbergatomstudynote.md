@@ -10,7 +10,7 @@ When n>>1, Rydberg atoms will have dipole-dipole interactions proportional to $n
 
 <br>
 
-####What is dipole? What is dipole-dipole interactions?
+#### What is dipole? What is dipole-dipole interactions?
 - A dipole is a physical term used to describe a molecule or atom in which there is a separation of positive and negative charges, resulting in a net dipole moment. This means that the molecule or atom has a slightly positive end and a slightly negative end.
 
 - Dipole-dipole interactions refer to the attractive forces that occur between the positive end of one polar molecule and the negative end of another polar molecule. These interactions are one of the types of intermolecular forces, which are the forces of attraction or repulsion between molecules. Dipole-dipole interactions are relatively weak compared to covalent or ionic bonds, but they play an important role in determining the physical properties of substances, such as boiling and melting points, solubility, and viscosity.
