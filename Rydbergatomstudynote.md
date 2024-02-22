@@ -74,12 +74,25 @@ future:
 - In this way we can overcome the intrinsic limitatons of classical devices when representing multi-particle quantum states and their evolution.
 
 
+### What is high-fidelity quantum logic operations and high-fidelity state quantum operations?
+
+- High-fidelity quantum logic operations refer to the ability to perform quantum operations with a high degree of accuracy and precision. This means that the operations are executed in such a way that the quantum state of the system is preserved as much as possible, minimizing errors and maintaining the integrity of the quantum information.
+
+- High-fidelity state quantum operations, on the other hand, specifically refer to the ability to prepare and manipulate quantum states with high precision and accuracy. This includes operations such as creating, controlling, and measuring quantum states with minimal error or distortion, allowing for reliable and accurate quantum information processing.
+
+<br>
+
 **An analog quantum simulator** is a physical system which mimics another quantum system of interest, or a specific class of models, by reproducing its Hamiltonian as close as possible. By performing controlled experiments and measurements on the quantum simulator we can then learn something about the target system which is hard by using classical computers.
 
 A digital quantum simulator performs a similar task by **encoding the quantum state of the target system in a quantum register**.
 
 If quantum gates constitute a universal set then in principle a digital quantum simulator can simulate any local Hamiltonian, including those with terms that are not natively realized by the physical system.
 
-A quantum computer takes this a step further, making use of a set of fully addressable qubits and universal set of quantum logic gates (possibly including error correction) to implement quantum algorithms for efficiently solving classically intractable computational problems.
+A quantum computer takes this a step further, making use of a set of fully addressable qubits and universal set of quantum logic gates (possibly including error correction) to implement quantum algorithms for efficiently solving classically **intractable** computational problems.
+
+
+
+
+
 
 
