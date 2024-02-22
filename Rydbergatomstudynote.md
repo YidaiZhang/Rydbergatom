@@ -90,9 +90,15 @@ If quantum gates constitute a universal set then in principle a digital quantum 
 
 A quantum computer takes this a step further, making use of a set of fully addressable qubits and universal set of quantum logic gates (possibly including error correction) to implement quantum algorithms for efficiently solving classically **intractable** computational problems.
 
+<br>
+
+Another very promising approach to **quantum information** processing based on trapped neutral atoms.
 
 
+The basic idea is to encode quantum information in the internal states of single atoms or (collective) excitations of atomic ensembles, with interactions mediated via their electronically highlyexcited Rydberg states (Rydberg-interacting qubits, or Rydberg qubits for short). 
 
 
+Ultracold Rydberg quantum systems have proven very successful for many-body physics and analog quantum simulation, and are now emerging as a competitive platform for digital quantum simulation and scalable quantum computing.
 
 
+In this article we summarize the key features of the Rydberg platform as it stands today, emphasizing its versatility for engineering quantum logic gates and manybody Hamiltonians.
