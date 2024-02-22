@@ -44,3 +44,42 @@ A ground atom is hard to excite to the Rydberg state by one laser photon, becaus
 
 Rydberg atom was proposed a decade ago to take advantage of its properties to implement quantum gates between neutral atom qubits. The availabillity of a strong long-range interaction that can be coherently turned on and off is an enabling resource for a wide range of quantum information tasks streching far beyond the original gate proposal. Rydberg enabled capabilities include long-range two-qubit gates, collective encoding of multiqubit registers, implementation of robust light-atom quantum interfaces, and the potential for simulating quantum many-body physics.
 
+<br>
+
+## Quantum simulation and computing with Rydberg-interacting qubits
+
+Arrays of optically trapped atoms excited to Rydberg states have recently emerged as a competitive physical platform for quantum simulation and computing, where high-fidelity state preparation and readout, quantum logic gates, controlled quantum dynamics of more than 100 qubits have all been demonstrated.
+
+overview of:
+
+- high degree of flexibility for encoding qubits 
+- performing quantum operations
+- engineering quantum many--body Hamiltonians
+
+review of:
+- high-fidelity state quantum operations
+- logic gates
+- quantum simulations in many-body regimes
+
+future:
+- computing schemes that are particularly suited to the Rydberg platform
+- remaining challenges to quantum simulators and quantum computers
+
+
+
+### What is quantum simulation and computing?
+
+- The basic idea is to prepare a set of quantum objects (atoms, ions, photons, etc.) in a well defined quantum state and to transform this state by making them interact in controlled ways.
+
+- In this way we can overcome the intrinsic limitatons of classical devices when representing multi-particle quantum states and their evolution.
+
+
+**An analog quantum simulator** is a physical system which mimics another quantum system of interest, or a specific class of models, by reproducing its Hamiltonian as close as possible. By performing controlled experiments and measurements on the quantum simulator we can then learn something about the target system which is hard by using classical computers.
+
+A digital quantum simulator performs a similar task by **encoding the quantum state of the target system in a quantum register**.
+
+If quantum gates constitute a universal set then in principle a digital quantum simulator can simulate any local Hamiltonian, including those with terms that are not natively realized by the physical system.
+
+A quantum computer takes this a step further, making use of a set of fully addressable qubits and universal set of quantum logic gates (possibly including error correction) to implement quantum algorithms for efficiently solving classically intractable computational problems.
+
+
