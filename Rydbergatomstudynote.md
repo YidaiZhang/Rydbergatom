@@ -102,3 +102,22 @@ Ultracold Rydberg quantum systems have proven very successful for many-body phys
 
 
 In this article we summarize the key features of the Rydberg platform as it stands today, emphasizing its versatility for engineering quantum logic gates and manybody Hamiltonians.
+
+
+### Ground-Rydberg (gr) qubits
+The simplest class of Rydberg qubits are composed of
+one weakly-interacting state |gi ≡ |0 $\rangle$ and one strongly interacting Rydberg state |r ≡ |1 $\rangle$ (gr-qubits).
+
+
+### Rydberg-Rydberg (rr) qubits
+Qubits encoded using two different Rydberg states (rr qubits)
+$\left|r'\right\rangle\equiv\left|0\right\rangle,\left|r\right\rangle\equiv\left|1\right\rangle$
+
+
+
+### Ground-ground (gg) qubits
+Qubits encoded in two long-lived low-lying atomic states offer the best
+performance in terms of coherence times combined with switchable interactions, making them good candidates for universal quantum computing.
+
+$|g\rangle\equiv|0\rangle,|g^{\prime}\rangle\equiv|1\rangle $
+
